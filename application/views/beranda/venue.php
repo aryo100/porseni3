@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>PORSENI 2018</title>
+		<!-- html meta -->
+		<meta charset="UTF-8">
+  		<meta name="description" content="Website Pekan Olahraga dan Seni (PORSENI) 2018">
+		<meta name="keywords" content="PORSENI, Pekan Olahraga dan Seni, PORSENI 2018">
+		<meta name="author" content="PNJ">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+		<!-- bootstrap 3.3.7 CSS -->
+  		<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>/assets/bootstrap/css/bootstrap.min.css">
+    	
+    	<!-- font-awesome-4.7.0 CSS -->
+  		<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>/assets/font-awesome/css/font-awesome.min.css">
+
+    	<!-- Styling CSS -->
+    	<link rel="stylesheet" href="<?php echo base_url(); ?>/assets/css/style.css">
+    	<link rel="stylesheet" href="<?php echo base_url(); ?>/assets/css/artikel.css">
+
+    	<!-- owl-carousel CSS -->
+    	<link rel="stylesheet" href="<?php echo base_url(); ?>/assets/owl-carousel/dist/assets/owl.carousel.min.css">
+    	<link rel="stylesheet" href="<?php echo base_url(); ?>/assets/owl-carousel/dist/assets/owl.theme.green.min.css">
+    	<link rel="stylesheet" href="<?php echo base_url(); ?>/assets/css/animate.css">
+
+    	<!-- favicon -->
+    	<link rel="shortcut icon" href="<?php echo base_url(); ?>/assets/images/icon.png" type="image/x-icon">
+
+	</head>
+	
+	<body>
+		<header>
+			<section id="navigation">
+				<div class="navbar navbar-fixed-top" style="">
+		  			<div class="container">
+			  			<div class="navbar-header">
+			  				<div class="logo-container">
+			  					<img src="<?php echo base_url(); ?>/assets/images/logo-porseni1.png">
+			  					<p style="">.blog</p>
+			  				</div>
+
+			  				<div class="side-nav-btn">
+			  					<div class="bar"></div>
+			  					<div class="bar"></div>
+			  					<div class="bar"></div>
+			  				</div>
+						</div>
+
+			  			<div id="bs-collapse" class="navbar-collapse collapse container-fluid">
+						   	<ul class="nav navbar-nav">
+						    	<li><a href="..">Beranda</a></li>
+						    	<li><a href="../list-berita">List Berita</a></li>
+						    	<li><a class="login-button" href="https://porseni.pnj.ac.id/index.php/login">Login Institusi</a></li>
+						   	</ul>
+						</div>
+					</div>
+				</div>
+
+				<div class="main-side-nav-overlay"></div>
+
+				<div class="main-side-nav">
+					<!-- <div style="height: 40px; background: linear-gradient(135deg, #b2ff59 0%, #009688 100%);"></div> -->
+					<div class="side-nav-header">
+						<p>PORSENI XII</p>
+					</div>
+
+					<div class="side-navbar">
+						<p>Menu</p>
+						<a href="..">Beranda</a>
+						<a href="list-berita">List Berita</a>
+						<a href="https://porseni.pnj.ac.id/index.php/login">Login Institusi</a>
+					</div>
+					<hr>
+					<div class="side-navbar">
+						<p>Social Media</p>
+						<!-- <a href="#">Facebook</a> -->
+						<a href="https://www.twitter.com/porsenixii2018?s=08">Twitter</a>
+						<a href="https://www.instagram.com/porsenixii2018">Instagram</a>
+					</div>
+				</div>
+			</section>
+		</header>
+
+		<main>
+			<section id="main-content">
+				<div class="container">
+					<div class="row">
+						<div class="content-container col-lg-12 col-12">
+							<div class="content-title">
+								<h1>Venue Lomba Porseni 2018</h1>
+								<p>Johan, 20 April 2018</p>
+							</div>
+							
+							<div class="content" style="">
+								<p>
+									Berikut ini adalah venue lomba yang akan dilaksanakan Porseni dalam 2 bulan kedepan.
+								</p>
+
+								<!-- GOR CIRACAS -->
+
+								<h3>1. Gor Ciracas</h3>
+
+								<img src="<?php echo base_url(); ?>/assets/images/gorciracas2.jpg" style="width: 100%; margin-bottom: 12px;">
+
+								<p>Alamat : Jalan Raya Bogor KM. 25-26, Ciracas, RT.8/RW.8, Susukan, RT.8/RW.8, Susukan, Ciracas, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13740</p>
+
+								<p>Telp : (021) 87721918</p>
+
+								<p>Fasilitas : stadion sepak bola , stadion kolam renang, kolam renang, lapangan  futsal, voli, basket, gym</p>
+
+								<p>Kapasitas : 5000 orang</p>
+
+								<p>Transportasi :</p>
+
+								<ul>
+									<li><p>
+										Bandara Soekarno hatta - Terminal 2 soekarn-Hatta - Bis DAMRI 	KAMPUNG RAMBUTAN	- angkot d112 atau bis depok timur kampung rambutan - turun di GOR Ciracas
+									</p></li>
+
+									<li><p>
+										Universitas indonesia - Keluar ke jalan margonda raya melewati stasiun pondok cina - angkot d112 - turun di gor ciracas
+									</p></li>
+
+									<li><p>
+										Universitas  indonesia - keluar ke jalan margonda raya melewati stasiun pondok cina - angkot d11 menuju pal - Bis bogor- kp rambutan - turun di gor ciracas
+									</p></li>
+								</ul>
+								<br>
+								<br>
+								
+								<!-- STADION UI/GYMNASIUM UI -->
+
+
+								<h3>2. Stadion UI/Gymnasium UI</h3>
+
+								<img src="<?php echo base_url(); ?>/assets/images/gymnasium.png">
+
+								<p>Alamat : Jl. Prof. DR. Ir Somantri Brodjonegoro, Kukusan, Beji, Kota Depok, Jawa Barat 16425</p>
+
+								<p>Telp : -</p>
+
+								<p>Fasilitas : stadion sepak bola , basket volly, futsal, tenis meja, bulu tangkis</p>
+
+								<p>Kapasitas : 5000 orang</p>
+
+								<p>Transportasi :</p>
+
+								<ul>
+									<li><p>
+										dari Bandara Soekarno hatta - naik kereta soekarno hatta menuju stasiun sudirman baru - Naik kereta jurusan bogor/jatinegara - turun di Stasiun Universitas indonesia / stasiun pondok cina - Naik bis Kuning langsung menuju lokasi
+									</p></li>
+
+									<li><p>
+										Stasiun pondok cina / Stasiun Universitas indonesia - Naik bis Kuning langsung menuju lokasi
+									</p></li>
+								</ul>
+								<br>
+								<br>
+								
+								<!-- POLIMEDIA -->
+
+
+								<h3>3. Politeknik Media Kreatif</h3>
+
+								<img src="<?php echo base_url(); ?>/assets/images/gerbang-polimedia.jpg">
+
+								<p>Alamat : Jalan Srengseng Sawah No.17, RT.8/RW.3, Srengseng Sawah, Jagakarsa, RT.3/RW.15, Srengseng Sawah, Jagakarsa, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12630</p>
+
+								<p>Telp : (021) 7270036</p>
+
+								<p>Fasilitas : ruang gendung olahraga (bulu tangkis, futsal, bola voli, basket)</p>
+
+								<p>Kapasitas : -</p>
+
+								<p>Transportasi : </p>
+
+								<ul>
+									<li><p>
+										Dari Universitas indonesia - naik kereta arah jakarta - turun di stasiun lenteng agung - angkot 83 - turun di depan polimedia
+									</p></li>
+
+									<li><p>
+										Dari stasiun lenteng agung -angkot 83 - turun di depan polimedia 
+									</p></li>
+
+									<li><p>
+										Dari Teriminal depok - naik 128 - turun di depan polimedia
+									</p></li>
+								</ul>
+								<br>
+								<br>
+
+								<!-- POLIMEDIA -->
+
+
+								<h3>4. Politeknik Negeri Jakarta</h3>
+
+								<img src="<?php echo base_url(); ?>/assets/images/gerbang-pnj.jpg">
+
+								<p>Alamat : Jl. Prof. Dr. G.A Siwabessy Kampus Baru UI, Kukusan, Beji, Kukusan, Beji, Kota Depok, Jawa Barat 16424</p>
+
+								<p>Telp : (021) 7270036</p>
+
+								<p>Fasilitas : Gedung serba guna, Kantin, Lapangan Utama, Lapangan Basket, Lapangan Volly , Kolam Renang</p>
+
+								<p>Kapasitas : -</p>
+
+								<p>Transportasi : </p>
+
+								<ul>
+									<li><p>
+										dari Bandara Soekarno hatta - naik kereta soekarno hatta menuju stasiun sudirman baru - Naik kereta jurusan bogor/jatinegara - turun di Stasiun Universitas indonesia / stasiun pondok cina - Naik bis Kuning langsung menuju lokasi/ menaiki bis politeknik negeri jakarta 
+									</p></li>
+
+									<li><p>
+										Stasiun pondok cina / Stasiun Universitas indonesia - Naik bis Kuning langsung menuju lokasi
+									</p></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+		</main>
+
+		<footer>
+			<section id="main-copyright">
+				<div class="company-list">
+					<ul>
+						<li><img src="<?php echo base_url(); ?>/assets/images/bakroma.png"></li>
+						<li><img src="<?php echo base_url(); ?>/assets/images/pnj.png"></li>
+						<li><img src="<?php echo base_url(); ?>/assets/images/polimedia.png"></li>
+					</ul>
+				</div>
+				
+				<p><i class="fa fa-fw fa-copyright"></i>2018 Pentas Olahraga dan Seni</p>	
+			</section>
+		</footer>
+
+		<script type="text/javascript" src="<?php echo base_url(); ?>/assets/js/jquery-3.2.1.min.js"></script>
+		<script type="text/javascript" src="<?php echo base_url(); ?>/assets/bootstrap/js/bootstrap.js"></script>
+		<script type="text/javascript" src="<?php echo base_url(); ?>/assets/owl-carousel/dist/owl.carousel.min.js"></script>
+		<script type="text/javascript" src="<?php echo base_url(); ?>/assets/js/main.js"></script>
+	</body>
+</html>

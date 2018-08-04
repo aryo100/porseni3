@@ -1,0 +1,196 @@
+/**
+ *
+ * CSS UNTUK PAGE KOMPETISI
+ * UBAH BAGIAN INI JIKA INGIN MENGGANTI
+ * STYLE PADA PAGE KOMPETISI
+ */
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 14pt;
+	color: #333333;
+	overflow-x: hidden;
+}
+
+.no-style {
+	list-style-type: none;
+}
+
+.alphabet {
+	list-style-type: lower-alpha;
+}
+
+.decimal {
+	list-style-type: decimal;
+}
+
+.indented {
+	text-indent: 30px;
+}
+
+.margin-bottom-12 {
+	margin-bottom: 12px;
+}
+
+.margin-bottom-24 {
+	margin-bottom: 24px;
+}
+
+.margin-bottom-36 {
+	margin-bottom: 36px;
+}
+
+#navigation .navbar .navbar-header .logo-container > img {
+	width: 150px;
+}
+
+#main-header {
+	background: linear-gradient(135deg, #b2ff59 0%,#009688 100%);
+	padding-bottom: 60px;
+    padding-top: 200px;
+    margin-top: -30px;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: 12pt;
+}
+
+#main-header .header-title{
+	padding: 2rem 1rem;
+}
+
+#main-header .header-title h1{
+	color: #fafafa;
+	font-family: 'Raleway', sans-serif;
+}
+
+#main-header .regis-btn, #main-header .guidebook-btn {
+	display: inline-block;
+	background-color: #009688;
+	box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.5);
+	padding: 5px 25px;
+	margin-bottom: 12px;
+}
+
+#main-header .regis-btn > a, #main-header .guidebook-btn > a {
+	border: none;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #fafafa;
+	margin-right: 10px;
+}
+
+#main-content {
+	background-color: #fafafa;
+}
+
+#main-content .content-container {
+	padding-left: 15rem;
+	padding-right: 15rem;
+	margin-bottom: 20px;
+	text-align: left;
+	/*text-align: left; 
+	letter-spacing: .5px; 
+	line-height: 25pt;*/
+}
+
+#main-content .content-container .competition-container {
+	padding: 1rem;
+	max-width: 150px;
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px; 
+}
+
+#main-content .content-container  .competition-container > img {
+	width: 150px;
+}
+
+#main-content .content-container .competition-container > p {
+	font-size: 12pt;
+	letter-spacing: .64px;
+	text-align: center;
+}
+
+#main-content .content-container > .content-title > h3 {
+	color: #006064;
+	margin-bottom: 24px;
+}
+
+
+#main-content .content-container .content {
+	text-align: left;
+}
+
+#main-content .content-container .content ul,
+#main-content .content-container .content ol {
+	padding-left: 40px;
+}
+
+#main-content .content-container .content .bold-subtitle {
+	font-size: 14pt;
+	font-weight: 600;
+	line-height: 32px;
+	letter-spacing: .64px;
+	margin: 0;
+	padding-bottom: 12px;
+}
+
+#main-content .content-container .content p {
+	font-size: 12pt;
+	margin: 0;
+	text-align: justify;
+	line-height: 32px;
+	letter-spacing: .64px;
+}
+
+#main-content .content-container .content p {
+	letter-spacing: .64px;
+}
+
+#main-content .content-container .content h4 {
+	letter-spacing: .64px;
+	line-height: 35px;
+}
+
+#main-content .content-container .content li .bold-subtitle,
+#main-content .content-container .content li h4,
+#main-content .content-container .content li p {
+	padding-left: 12px;
+}
+
+@media screen and (max-width: 992px)  {
+
+	#main-content .content-container {
+		padding-left: 6rem;
+		padding-right: 6rem;
+		text-align: left;
+	}
+}
+
+@media screen and (max-width: 768px)  {
+
+	#navigation .navbar .navbar-header .logo-container > img {
+		width: 120px;
+	}
+
+	#main-header {
+		padding-top: 150px;
+	    padding-left: 20px;
+	    padding-right: 20px;
+	    font-size: 12pt;
+	}
+
+	#main-content .content-container {
+		padding-left: 2rem;
+		padding-right: 2rem;
+		text-align: left;
+	}
+
+	#main-content .content-container {
+		font-size: 12pt;
+	}
+
+	#main-content .content-container {
+		font-size: 12pt;
+	}
+}

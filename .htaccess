@@ -1,0 +1,6 @@
+#Dihidupkan pada saat ketemu menggunakan selain .htaccess
+RewriteEngine on
+
+#Force to https
+#RewriteCond %{SERVER_PORT} !^443$
+#RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R,L]
